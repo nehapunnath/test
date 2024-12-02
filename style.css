@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin:0px;
+
+}
+.card{
+    border:1px solid white;
+    background-color: #ffffff;
+    text-align: center;
+    box-align: center;
+}
+    
+   
+a{
+    text-decoration: none;
+}
+.about{
+    /* padding-top:20px;
+    margin-top:200px; */
+}
+.card-body{
+    /* position:relative;
+    top:100px; */
+    text-align:center;
+    padding-top:20px;
+    margin-top:200px;
+
+}
